@@ -1,3 +1,5 @@
+# **SneakPeek Online Shopping System**
+
 SneakPeek is an online shopping system that allows customers to browse and purchase products from various categories. It also provides functionality for store owners to manage their inventory and track sales. The system is built using Python and MySQL database.
 
 ## **Features**
@@ -81,7 +83,3 @@ The **`serve`** function initializes a gRPC server for each node and starts serv
 ## **Contributing**
 
 Contributions are welcome! Feel free to submit issues or pull requests for any improvements or bug fixes.
-
-## **License**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
